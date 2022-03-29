@@ -5,7 +5,9 @@ Mathematical operations play a major role in our daily lives. In our daily life,
 The main objective of this project is to solve basic and advanced mathematical problems. The operations to be performed are addition, subtraction, multiplication, division, modulus, factorial, square, cube, square root, cube root, inverse, natural log, log, exponential, power, trigonometric, inverse trigonometric, hyperbolic, inverse hyperbolic.
 ## Features:
 •	Addition: The addition add() function takes two operands as input and it results in a+b.
+
 •	Subtraction: The subtraction sub() function takes two operands as input and it results in a-b.
+
 •	Multiplication: The multiplication multi() function takes two operands as input and it results in a*b.
 •	Division: The division division() function takes two operand as input and it results in a/b.
 •	Modulus: The modulus modulus() function takes two operands as input and it results in a%b.
