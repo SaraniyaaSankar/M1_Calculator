@@ -32,7 +32,7 @@ The main objective of this project is to solve basic and advanced mathematical p
 
 •	Exponential: The exponential exponential() function takes one operand as input and it results in exp(a).
 
-•	Power: The power power() function takes one operand as input and it results in a^b.
+•	Power: The power power() function takes two operands as input and it results in a^b.
 
 •	Trigonometric: The trigonometric trigonometric() function takes one operand as input for each function and results in corresponding sin, cos, tan values.
 
