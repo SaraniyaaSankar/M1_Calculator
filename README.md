@@ -20,3 +20,11 @@
 [![Unit testing](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/unit-test.yml)
 * valgrind
 [![Valgrind](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Valgrind.yml)
+# Integrated Tools to GitHub
+*  [Codacy](https://www.codacy.com/)
+
+# GitHub Actions
+* Build using Make for CI
+* Unit tests with Cunit
+* Static code analysis using cppcheck
+* Dynamic Code analysis using Valgrind
