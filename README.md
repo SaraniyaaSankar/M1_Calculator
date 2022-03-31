@@ -29,11 +29,21 @@ Folder             | Description
 `4_TestPlanAndOutput`      | Documents with test plans and output
 `5_Report`  | Document consisting of all details
 `6_ImagesAndVideo` | Document holding output images and video
+# Challenges faced and how it was overcome
+* Generation of makefile: To overcome this problem research on makefiles was done
+* Unity testing: Initially a few testcases did not pass, to overcome this issue debugging of program was performed
+About
 # Integrated Tools to GitHub
-*  [Codacy](https://www.codacy.com/)
-
+* [Codacy](https://www.codacy.com/)
+* [Codiga](https://www.codiga.io/)
 # GitHub Actions
 * Build using Make for CI
 * Unit tests with Cunit
 * Static code analysis using cppcheck
 * Dynamic Code analysis using Valgrind
+# Learning Resources
+1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+3. [gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1)
+4. [git inspector](https://github.com/ejwa/gitinspector.git)
+5. [github workflow](https://docs.github.com/en/actions/learn-github-action)
