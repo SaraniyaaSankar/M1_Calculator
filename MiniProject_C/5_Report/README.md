@@ -65,5 +65,15 @@ Security issues
 ![behavior Diagram](https://user-images.githubusercontent.com/101622270/160973115-9f625d6d-671f-4891-86aa-a89ceec3671e.jpg)
 ## Structural diagram
 ![structural Diagram](https://user-images.githubusercontent.com/101622270/160973223-bdeecc4a-1c04-4eb4-8093-9f270905d59a.jpg)
+## Flow chart
+![Flowchart_1](https://user-images.githubusercontent.com/101622270/160973420-155e590d-4d46-4ccc-ad94-fb2ff17f8f65.jpg)
+![Flowchart_2](https://user-images.githubusercontent.com/101622270/160973444-7bb0b17b-3341-4707-abb5-9fac07473797.jpg)
+## Test plan
+![Test plan](https://user-images.githubusercontent.com/101622270/160973334-f70af1e0-c618-444c-acd7-7d5983bc15da.jpg)
+## Output
+![output_1](https://user-images.githubusercontent.com/101622270/160973511-7c54301d-a839-4c49-b830-4c6aff35e71e.jpg)
+![output_2](https://user-images.githubusercontent.com/101622270/160973582-b12f3303-3ad2-427e-8440-75825eeda052.jpg)
+![output_3](https://user-images.githubusercontent.com/101622270/160973595-f2bee99a-9e75-4e9d-88d7-86a0f4266b76.jpg)
+![output_4](https://user-images.githubusercontent.com/101622270/160973613-695f7ec3-aaf1-44c9-b702-f01d86161e68.jpg)
 
 
