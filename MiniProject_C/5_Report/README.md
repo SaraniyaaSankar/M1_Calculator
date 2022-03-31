@@ -61,4 +61,9 @@ Limited number of operations are defined
 Solve problems contain large numbers
 ## THREATS
 Security issues
+## Behavioural diadram
+![behavior Diagram](https://user-images.githubusercontent.com/101622270/160973115-9f625d6d-671f-4891-86aa-a89ceec3671e.jpg)
+## Structural diagram
+![structural Diagram](https://user-images.githubusercontent.com/101622270/160973223-bdeecc4a-1c04-4eb4-8093-9f270905d59a.jpg)
+
 
