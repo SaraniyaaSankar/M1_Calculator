@@ -1,3 +1,4 @@
+# CALCULATOR
 ## Introduction:
 Mathematical operations play a major role in our daily lives. In our daily life, we will be involving with different types of calculations. Ordinary calculator is used to solve basic mathematical operations. For physics, chemistry, advanced mathematics, etc such calculators are sometimes insufficient. Advanced problems can be solved with functions such as logarithm, exponential, trigonometric, hyperbolic, etc. Calculator operations such as addition, subtraction, multiplication, division, modulus, factorial, square, cube, square root, cube root, inverse, natural log, log, exponential, power, trigonometric, inverse trigonometric, hyperbolic, inverse hyperbolic are implemented using C language in this project.
 ## Objective:
