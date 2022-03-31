@@ -8,6 +8,8 @@
 [![C/C++ CI](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/c-cpp.yml)
 * Build - Windows
 [![Build CI - Windows](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Build_Windows.yml)
+* Build - Linux
+[![Build CI - Linux](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Build_Linux.yml)
 * cppcheck
 [![cppcheck-action](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/cppcheck.yml)
 * Analysis
