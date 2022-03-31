@@ -20,6 +20,15 @@
 [![Unit testing](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/unit-test.yml)
 * valgrind
 [![Valgrind](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Valgrind.yml)
+# Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Architecture`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_TestPlanAndOutput`      | Documents with test plans and output
+`5_Report`  | Document consisting of all details
+`6_ImagesAndVideo` | Document holding output images and video
 # Integrated Tools to GitHub
 *  [Codacy](https://www.codacy.com/)
 
