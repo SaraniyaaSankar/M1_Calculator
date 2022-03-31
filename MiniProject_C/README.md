@@ -20,4 +20,3 @@ Operations performed are
 - Hyperbolic
 - Inverse hyperbolic
 
-Flow chart for this Calculator project is in the form of image file.
