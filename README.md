@@ -6,6 +6,8 @@
 ![codiga badges](https://api.codiga.io/project/32256/score/svg)![Codiga score](https://api.codiga.io/project/32256/status/svg)
 * Build
 [![C/C++ CI](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/c-cpp.yml)
+* Build - Windows
+[![Build CI - Windows](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Build_Windows.yml)
 * cppcheck
 [![cppcheck-action](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/cppcheck.yml)
 * Analysis
