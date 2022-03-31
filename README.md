@@ -14,3 +14,5 @@
 [![Contribution Check - Git Inspector](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/git_inspector.yml)
 * Unit test
 [![Unit testing](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/unit-test.yml)
+* valgrind
+[![Valgrind](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Valgrind.yml)
