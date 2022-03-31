@@ -12,3 +12,5 @@
 [![Analysis](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Analysis.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/Analysis.yml)
 * Git Inspector
 [![Contribution Check - Git Inspector](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/git_inspector.yml)
+* Unit test
+[![Unit testing](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SaraniyaaSankar/M1_Calculator/actions/workflows/unit-test.yml)
