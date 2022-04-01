@@ -86,7 +86,7 @@ Security issues
 Folder        | description
 --------------| ----------------------------------------------
 `inc`         | All header files
-`src`         | Main source code for Number Conversion
+`src`         | Main source code for Calculator operations
 `test`        | All source code and data for testing purposes
 `unity`       | Unity files
 ## Test Plan
