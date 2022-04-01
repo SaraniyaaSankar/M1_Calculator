@@ -64,4 +64,14 @@ Limited number of operations are defined
 Solve problems contain large numbers
 ## THREATS
 Security issues
+## High Level Requirements
+| ID  | Description | Status |
+| --- | --- | --- |
+| HLR-1 | Able to do basic mathematical operations | Implemented |
+| HLR-2 | Able to do positive data values | Implemented |
+## Low Level Requirements
+| ID  | Description | Status |
+| --- | --- | --- |
+| LLR-1 | User able to read output data | Implemented |
+| LLR-2 | Displays output data without any errors | Implemented |
 
