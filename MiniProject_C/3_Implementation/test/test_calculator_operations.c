@@ -175,7 +175,7 @@ void test_trigonometric(void) {
   TEST_ASSERT_EQUAL(0.000002,0.000001,-0.000002, trigonometric(180,-90,180));
 }
                     
-void test_inversemetric(void) {
+void test_inversetrigonometric(void) {
   TEST_ASSERT_EQUAL(0.000000,90.000076,0.000000, inversetrigonometric(0,0,0));
   
   /* Dummy fail*/
