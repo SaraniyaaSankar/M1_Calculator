@@ -68,7 +68,7 @@ Security issues
 | ID  | Description | Status |
 | --- | --- | --- |
 | HLR-1 | Able to do basic mathematical operations | Implemented |
-| HLR-2 | Able to do positive data values | Implemented |
+| HLR-2 | Able to do all type of values | Implemented |
 ## Low Level Requirements
 | ID  | Description | Status |
 | --- | --- | --- |
