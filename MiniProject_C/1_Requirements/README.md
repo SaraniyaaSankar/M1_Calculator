@@ -3,6 +3,8 @@
 Mathematical operations play a major role in our daily lives. In our daily life, we will be involving with different types of calculations. Ordinary calculator is used to solve basic mathematical operations. For physics, chemistry, advanced mathematics, etc such calculators are sometimes insufficient. Advanced problems can be solved with functions such as logarithm, exponential, trigonometric, hyperbolic, etc. Calculator operations such as addition, subtraction, multiplication, division, modulus, factorial, square, cube, square root, cube root, inverse, natural log, log, exponential, power, trigonometric, inverse trigonometric, hyperbolic, inverse hyperbolic are implemented using C language in this project.
 ## Objective:
 The main objective of this project is to solve basic and advanced mathematical problems. The operations to be performed are addition, subtraction, multiplication, division, modulus, factorial, square, cube, square root, cube root, inverse, natural log, log, exponential, power, trigonometric, inverse trigonometric, hyperbolic, inverse hyperbolic.
+## Defining the System
+![defining the system](https://user-images.githubusercontent.com/101622270/161197939-99a4c222-8ae9-494a-9f6e-b7d76b1d5160.jpg)
 ## Features:
 •	Addition: The addition add() function takes two operands as input and it results in a+b.
 
